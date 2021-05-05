@@ -39,7 +39,9 @@ font-family: 'Anonymous Pro', monospace;
 font-family: 'cascadia code', monospace;
 ```
 - JetBrains Mono
-(get it)[https://www.jetbrains.com/lp/mono/]
+- 
+[get it](https://www.jetbrains.com/lp/mono/)
+
 ```css
 font-family: 'JetBrains Mono', monospace;
 ```
@@ -47,8 +49,11 @@ font-family: 'JetBrains Mono', monospace;
 # VS CODE ENTEXIONS 
 [Thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
-(Material Icon([https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme]
-(Tabnine)[https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode]
-(Git history)[https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory]
-(Mirage)[https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage]
+[Material Icon](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+[Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+[Git history](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+[Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage)
 
