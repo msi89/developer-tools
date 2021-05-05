@@ -45,7 +45,8 @@ font-family: 'JetBrains Mono', monospace;
 ```
 
 # VS CODE ENTEXIONS 
-(Thunder client)[https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client]
+[Thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
+
 (Material Icon([https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme]
 (Tabnine)[https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode]
 (Git history)[https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory]
