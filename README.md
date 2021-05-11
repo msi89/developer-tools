@@ -57,3 +57,6 @@ font-family: 'JetBrains Mono', monospace;
 
 [Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage)
 
+# USEFULL LINKS
+[Reqres](https://reqres.in/)
+[jsonplaceholder](https://jsonplaceholder.typicode.com/)
