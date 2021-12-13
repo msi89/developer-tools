@@ -61,6 +61,9 @@ font-family: 'JetBrains Mono', monospace;
 
 [Remote Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
+[MySQL: Data management client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+
+
 # Content full api LINKS
 [Reqres](https://reqres.in/)
 
