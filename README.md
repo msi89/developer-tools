@@ -57,6 +57,10 @@ font-family: 'JetBrains Mono', monospace;
 
 [Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage)
 
+[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+[Remote Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
 # Content full api LINKS
 [Reqres](https://reqres.in/)
 
