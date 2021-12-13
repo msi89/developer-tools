@@ -1,0 +1,23 @@
+{
+    "name": "Remote-dev Project",
+    "dockerComposeFile": [
+        "docker-compose.yml"
+    ],
+    "workspaceFolder": "/workspace",
+    "service": "app",
+    "extensions": [
+        "editorconfig.editorconfig",
+        "felixfbecker.php-debug",
+        "bmewburn.vscode-intelephense-client",
+        "mrmlnc.vscode-apache"
+    ],
+    "settings": {
+        "php.validate.executablePath": "/usr/local/bin/php"
+    },
+    "forwardPorts": [],
+    // "postCreateCommand": "composer install && npm install && composer run post-root-package-install && composer run post-create-project-cmd",
+    "remoteUser": "vscode",
+    "features": {
+        "sshd": "latest"
+    }
+}

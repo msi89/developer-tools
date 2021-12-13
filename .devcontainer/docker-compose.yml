@@ -1,0 +1,19 @@
+version: "3"
+volumes:
+  db-data: null
+services:
+  app:
+    build: php8
+    volumes:
+      - ../:/workspace:cached
+    working_dir: /workspace
+  db:
+    image: postgres:12
+    restart: always
+    container_name: postgres
+    environment:
+      - POSTGRES_DB=delivery
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    volumes:
+      - db-data:/var/lib/postgresql/data/
