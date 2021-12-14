@@ -71,4 +71,26 @@ font-family: 'JetBrains Mono', monospace;
 
 [Online mockup](https://app.moqups.com)
 
+# OH MY ZSH and PowerLevel
+
+- install oh-my-zsh
+
+```bash
+cd ~
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+- install powerLevel
+
+1. Clone repoository
+
+```bash
+cd ~
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+
+2. Set ZSH_THEME="powerlevel10k/powerlevel10k" in `~/.zshrc`.
+
+
+
 
