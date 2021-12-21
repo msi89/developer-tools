@@ -74,6 +74,12 @@ font-family: Monoid, monospace;
 
 [Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage)
 
+[Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+
+[Remote Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+[MySQL: Data management client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
+
 # Content full api LINKS
 
 [Reqres](https://reqres.in/)
@@ -81,3 +87,23 @@ font-family: Monoid, monospace;
 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 [Online mockup](https://app.moqups.com)
+
+# OH MY ZSH and PowerLevel
+
+- install oh-my-zsh
+
+```bash
+cd ~
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+- install powerLevel
+
+1. Clone repoository
+
+```bash
+cd ~
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+
+2. Set ZSH_THEME="powerlevel10k/powerlevel10k" in `~/.zshrc`.
