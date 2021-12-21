@@ -1,52 +1,69 @@
 # fonts-for-developer
 
 - Victor Mono
+
 ```css
-font-family: 'Victor Mono', monospace;
+font-family: "Victor Mono", monospace;
 ```
 
 - Ubuntu Mono
+
 ```css
-font-family: 'Ubuntu Mono', monospace;
+font-family: "Ubuntu Mono", monospace;
 ```
 
 - Inconsolata
+
 ```css
-font-family: 'Inconsolata', monospace;
+font-family: "Inconsolata", monospace;
 ```
 
 - Iosevka
+
 ```css
-font-family: 'Iosevka', monospace;
+font-family: "Iosevka", monospace;
 ```
 
 - Fira Code
+
 ```css
-font-family: 'Fira Code', monospace;
+font-family: "Fira Code", monospace;
 ```
 
 - Source Code Pro
+
 ```css
-font-family: 'Source Code Pro', monospace;
+font-family: "Source Code Pro", monospace;
 ```
 
 - Anonymous Pro
+
 ```css
-font-family: 'Anonymous Pro', monospace;
+font-family: "Anonymous Pro", monospace;
 ```
+
 - cascadia code
+
 ```css
-font-family: 'cascadia code', monospace;
+font-family: "cascadia code", monospace;
 ```
+
 - JetBrains Mono
-- 
+
 [get it](https://www.jetbrains.com/lp/mono/)
 
 ```css
-font-family: 'JetBrains Mono', monospace;
+font-family: "JetBrains Mono", monospace;
 ```
 
-# VS CODE ENTEXIONS 
+- Monoid
+
+```css
+font-family: Monoid, monospace;
+```
+
+# VS CODE ENTEXIONS
+
 [Thunder client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)
 
 [Material Icon](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -58,10 +75,9 @@ font-family: 'JetBrains Mono', monospace;
 [Mirage](https://marketplace.visualstudio.com/items?itemName=tristanremy.mirage)
 
 # Content full api LINKS
+
 [Reqres](https://reqres.in/)
 
 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
 [Online mockup](https://app.moqups.com)
-
-
