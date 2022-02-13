@@ -80,6 +80,14 @@ font-family: Monoid, monospace;
 
 [MySQL: Data management client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 
+### python
+[Python indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent&ssr=true)
+
+[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
+[python preview](https://marketplace.visualstudio.com/items?itemName=dongli.python-preview)
+
+
 # Content full api LINKS
 
 [Reqres](https://reqres.in/)
