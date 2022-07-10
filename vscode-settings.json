@@ -1,0 +1,42 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Mirage",
+  "php.suggest.basic": false,
+  "editor.fontFamily": "'Monoid', monospace", // "'Victor Mono', 'JetBrains Mono', 'Anonymous Pro','cascadia code', Menlo, Monaco, 'Courier New', monospace",
+  // "editor.fontSize": 14,
+  "editor.fontWeight": "500",
+  "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+  "terminal.integrated.fontSize": 14,
+  "code-runner.runInTerminal": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+  "git.enableSmartCommit": true,
+  "files.associations": {
+    "*.tmpl": "html"
+  },
+  "material-icon-theme.folders.color": "#26a69a",
+  "editor.formatOnSave": true,
+  // "editor.formatOnType": true,
+  // "editor.formatOnPaste": true,
+  // "eslint.enable": true,
+  // "prettier.enable": true,
+  // "eslint.codeActionsOnSave.rules": null,
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.tabSize": 2,
+  // "[javascript]": {
+  //   "editor.maxTokenizationLineLength": 2500,
+  //   "editor.formatOnSave": false
+  // },
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll": true
+  // }
+}
