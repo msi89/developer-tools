@@ -80,6 +80,8 @@ font-family: Monoid, monospace;
 
 [MySQL: Data management client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 
+[Inline SQL](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.inline-sql-syntax)
+
 ### python
 [Python indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent&ssr=true)
 
